@@ -1,6 +1,7 @@
 <?php
     require('includes/config.php');
-    require('models/cart_model.php');
+    require('models/guitars_model.php');
+    //require('models/category_model.php');
 ?>
 
 <!DOCTYPE html>

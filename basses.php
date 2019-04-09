@@ -1,6 +1,6 @@
 <?php
     require('includes/config.php');
-    require('models/cart_model.php');
+    require('models/basses_model.php');
 ?>
 
 <!DOCTYPE html>
