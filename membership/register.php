@@ -51,7 +51,7 @@ else { // Email doesn't already exist in a database, proceed...
 
         Please click this link to activate your account:
 
-        http://3.88.40.215/store/membership/verify.php?email='.$email.'&hash='.$hash;  
+        http://3.92.221.49/store/membership/verify.php?email='.$email.'&hash='.$hash;  
 
         mail( $to, $subject, $message_body );
 

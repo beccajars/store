@@ -36,7 +36,7 @@ if ( $_SERVER['REQUEST_METHOD'] == 'POST' )
 
         Please click this link to reset your password:
 
-        http://3.88.40.215/store/membership/reset.php?email='.$email.'&hash='.$hash;  
+        http://3.92.221.49/store/membership/reset.php?email='.$email.'&hash='.$hash;  
 
         mail($to, $subject, $message_body);
 
